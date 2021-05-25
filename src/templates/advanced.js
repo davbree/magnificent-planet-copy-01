@@ -3,6 +3,7 @@ import _ from 'lodash';
 import {graphql} from 'gatsby';
 
 import components, {Layout} from '../components/index';
+import './advanced.scss'
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
